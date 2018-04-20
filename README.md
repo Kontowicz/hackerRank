@@ -3,9 +3,9 @@
 | Big Numbers | |
 |-------------|-|
 | Link | Solution |
-|[BigDecimal(https://www.hackerrank.com/challenges/java-bigdecimal)]||
-|[https://www.hackerrank.com/challenges/java-primality-test](Primary Test)||
-|[https://www.hackerrank.com/challenges/java-biginteger](Big Integer)||
+|[BigDecimal](https://www.hackerrank.com/challenges/java-bigdecimal)||
+|[Primary Test](https://www.hackerrank.com/challenges/java-primality-test)||
+|[Big Integer](https://www.hackerrank.com/challenges/java-biginteger)||
 | Data Structures | |
 |[1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction)||
 |[2D Array](https://www.hackerrank.com/challenges/java-2d-array)||
@@ -18,7 +18,7 @@
 |[Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java)||
 |[Stdin and Stdout 1](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)||
 |[If-Else](https://www.hackerrank.com/challenges/java-if-else)||
-|[Stdin and Stdout ||](https://www.hackerrank.com/challenges/java-stdin-stdout)||
+|[Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-stdout)||
 |[Output formatting](https://www.hackerrank.com/challenges/java-output-formatting)||
 |[Loops |](https://www.hackerrank.com/challenges/java-loops-i)||
 |[Loops ||](https://www.hackerrank.com/challenges/java-loops)||
