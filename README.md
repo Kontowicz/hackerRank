@@ -20,8 +20,8 @@
 |[If-Else](https://www.hackerrank.com/challenges/java-if-else)||
 |[Stdin and Stdout](https://www.hackerrank.com/challenges/java-stdin-stdout)||
 |[Output formatting](https://www.hackerrank.com/challenges/java-output-formatting)||
-|[Loops |](https://www.hackerrank.com/challenges/java-loops-i)||
-|[Loops ||](https://www.hackerrank.com/challenges/java-loops)||
+|[Loops 1](https://www.hackerrank.com/challenges/java-loops-i)||
+|[Loops 2](https://www.hackerrank.com/challenges/java-loops)||
 |[Datatypes](https://www.hackerrank.com/challenges/java-datatypes)||
 |[End-of-file](https://www.hackerrank.com/challenges/java-end-of-file)||
 |[Static initializer block](https://www.hackerrank.com/challenges/java-static-initializer-block)||
