@@ -1,6 +1,7 @@
 <H3>Example solutions hacker rank</H3>
 
 | Big Numbers | |
+|----------------|
 | Link | Solution |
 |[BigDecimal(https://www.hackerrank.com/challenges/java-bigdecimal)]||
 |[https://www.hackerrank.com/challenges/java-primality-test](Primary Test)||
